@@ -81,7 +81,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=inrexna&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-medium.vercel.app/?username=inrexna&limit=4" alt="Medium articles" />
 </div>
 
 ###
