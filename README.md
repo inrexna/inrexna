@@ -1,4 +1,4 @@
-<h2 align="center">Hi ! My name is inrexna</h2>
+<h2 align="center">Hi ! My name is inrexna, red team enthusiast and active CTF player, with a strong focus on offensive security, vulnerability exploitation, and real world attack simulation.</h2>
 
 ###
 
