@@ -81,7 +81,7 @@
 ###
 
 <div align="center">
-   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@inrexna/3" alt="Recent Article 0">
+   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@inrexna/1" alt="Recent Article 0">
 </div>
 
 ###
