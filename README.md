@@ -81,7 +81,15 @@
 ###
 
 <div align="center">
-   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@inrexna/0" alt="Recent Article 0">
+  <a href="https://medium.com/@inrexna" target="_blank">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@inrexna/0" alt="Article 0" />
+  </a>
+  <a href="https://medium.com/@inrexna" target="_blank">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@inrexna/1" alt="Article 1" />
+  </a>
+  <a href="https://medium.com/@inrexna" target="_blank">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@inrexna/2" alt="Article 2" />
+  </a>
 </div>
 
 ###
